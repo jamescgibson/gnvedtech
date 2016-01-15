@@ -4,7 +4,4 @@ A list of education technology companies in Gainesville, Florida. Deploys to (ht
 To get listed:
 
 1. Open a pull request
-
-or
-
-2. Email James Gibsson or tweet @jamescgibson on Twitter
+2. Explain why you consider yourself a startup.
