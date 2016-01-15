@@ -1,0 +1,23 @@
+img.logo {
+  margin-top: 1.5em;
+  width: 100%;
+}
+
+
+.company-row {
+  margin-bottom: 4em;
+}
+
+p.details {
+  padding-left: 1px;
+}
+
+ul.icons li {
+  padding-left: 3px;
+  padding-right: 1.5em;
+  display: inline;
+}
+
+footer {
+  padding-top: 200px;
+}
