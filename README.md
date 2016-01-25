@@ -1,4 +1,4 @@
-A list of education technology startups in Gainesville, Florida. Deploys to (http://edtechgainesville.com)[http://edtechgainesville.com].
+A list of education technology startups in Gainesville, Florida. Deploys to [http://edtechgainesville.com](http://edtechgainesville.com).
 
 
 To get listed:
